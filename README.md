@@ -6,4 +6,4 @@ These are easily accesible via OpenIV but I don't think anyone uploaded them her
 ![Fine, I'll do it myself.](fineilldoitmyself.gif)
 
 
-##These have zero use cases if you don't experiment with Euphoria.
+These have zero use cases if you don't experiment with Euphoria.
